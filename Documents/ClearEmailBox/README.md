@@ -55,7 +55,6 @@ Na primeira execução, o navegador será aberto para consentimento. Após isso,
 3. Adicione o arquivo `client_secret.json` na pasta `credentials/`
 4. Execute o comando:
 
-```bash
 dotnet run
 
 🎯 Objetivo do Projeto
