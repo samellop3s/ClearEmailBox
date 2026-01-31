@@ -1,0 +1,14 @@
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\ClearEmailBox.exe
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\ClearEmailBox.deps.json
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\ClearEmailBox.runtimeconfig.json
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\ClearEmailBox.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\ClearEmailBox.pdb
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.AssemblyInfo.cs
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.dll
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\refint\ClearEmailBox.dll
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.pdb
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.genruntimeconfig.cache
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ref\ClearEmailBox.dll
