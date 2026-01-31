@@ -12,3 +12,14 @@ C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\refint\ClearEmailBox.dl
 C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.pdb
 C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.genruntimeconfig.cache
 C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ref\ClearEmailBox.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\Google.Apis.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\Google.Apis.Auth.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\Google.Apis.Core.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\Google.Apis.Gmail.v1.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\System.Management.dll
+C:\Users\Win10\Documents\ClearEmailBox\bin\Debug\net10.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEmailBox.sourcelink.json
+C:\Users\Win10\Documents\ClearEmailBox\obj\Debug\net10.0\ClearEma.69AE42F5.Up2Date

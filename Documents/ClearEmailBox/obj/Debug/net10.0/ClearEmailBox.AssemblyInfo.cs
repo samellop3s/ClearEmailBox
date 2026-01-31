@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClearEmailBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1e42cd62c4bcb5e3a9289a5fbea6e178ce06cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClearEmailBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClearEmailBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
